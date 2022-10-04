@@ -1,0 +1,41 @@
+#header{
+    background-color: rgb(42, 169, 173);
+    color: #fff;
+    margin-top: 20px;
+    padding: 50px 50px 50px 50px;
+}
+#bold-1{
+    font-weight: bold;
+}
+#text{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    color: rgb(42, 169, 173);
+}
+#quarter-1{
+    color:  rgb(42, 169, 173);
+}
+#quarter-2{
+    background-color: rgb(160, 206, 198);
+}
+#quarter-3{
+    background-color:  rgb(134, 226, 211);
+}
+#quarter-4{
+background-color: rgb(100, 231, 209);
+}
+#quarter-5{
+background-color:  rgb(77, 235, 208);
+}
+#quarter-6{
+    background-color: rgb(7, 212, 178) ;
+}
+#footer{
+    display: flex;
+    flex-direction: row;
+    /* justify-content: space-between; */
+}
+.colmn{
+  height: 200px;
+}
